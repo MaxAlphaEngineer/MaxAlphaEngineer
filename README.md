@@ -7,10 +7,10 @@
 <a href="https://www.instagram.com/mr_max_kamov/">
   <img align="left" alt="Muzaffar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<br/>
 
-<br />
 
-Hi, I'm [Muzaffar Makhkamov](https://dev-soft.uz/), a Full Stack Developer 🚀 from Uzbekistan, currently, I'm a Software Engineer 🙍🏽‍♂️ [Universalbank JSC](https://universalbank.uz/private/), Mentor 👨🏽‍💼 [Unisoft Group](https://unired.uz). Beside's programming, I enjoy drawing and gaming.
+ Hi, I'm [Muzaffar Makhkamov](https://dev-soft.uz/), a Full Stack Developer 🚀 from Uzbekistan, currently, I'm a Software Engineer 🙍🏽‍♂️ [Universalbank JSC](https://universalbank.uz/private/), Mentor 👨🏽‍💼 [Unisoft Group](https://unired.uz). Beside's programming, I enjoy drawing and gaming.
 
   
 **Talking about Personal Stuffs:**
@@ -40,14 +40,12 @@ Hi, I'm [Muzaffar Makhkamov](https://dev-soft.uz/), a Full Stack Developer 🚀 
 Laravel               26 hrs 23 mins  ████████████████            62.53 % 
 Kotlin                13 hrs 10 mins  █████████░░░░░░░░░░░░░░░░   31.50 % 
 Others                2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░    4.97 % 
-
 ```
 <!--END_SECTION:waka-->
 
 🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆   Points           
-🌸  Completed 4 tasks today           
+<!-- TODO-IST:START -->         
+🏆  Completed 4 tasks today           
 🗓  Completed 23 tasks this week           
 ✅  Completed 603 tasks so far           
 ⏳  Longest streak is 10 days
