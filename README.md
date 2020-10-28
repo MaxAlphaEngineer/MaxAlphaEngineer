@@ -17,6 +17,8 @@
 
 ```
 ```
+<img align="right" alt="Muzaffar's Desktop" width="22px" src="https://github.com/MaxAlphaEngineer/MaxAlphaEngineer/coding.gif" /><br>
+
 
 **Talking about Personal Stuffs:**
 
