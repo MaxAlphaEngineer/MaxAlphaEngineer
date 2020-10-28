@@ -5,10 +5,10 @@
   <img align="left" alt="Muzaffar's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/mr_max_kamov/">
-  <img align="left" alt="Muzaffar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Muzaffar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /><br>
 </a>
 
-<br>
+
 
 ```
 ```
