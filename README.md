@@ -25,7 +25,7 @@
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Kotlin and Laravel; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@mahkamovmuzaffar](https://t.me/@mahkamovmuzaffar);
+- 📫 How to reach me: [@mahkamovmuzaffar](https://t.me/mahkamovmuzaffar);
 - 📝[Resume](https://drive.google.com)
 
 
