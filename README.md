@@ -10,7 +10,7 @@
 
 <br />
 
-Hi, I'm [Muzaffar Makhkamov](https://dev-soft.uz/), a Full Stack Developer 🚀 from Uzbekistan, currently, I'm a Software Engineer 🙍🏽‍♂️ Universalbank JSC.(https://universalbank.uz/private/), Mentor 👨🏽‍💼 Unisoft Group (https://unired.uz). Beside's programming, I enjoy drawing and gaming.
+Hi, I'm [Muzaffar Makhkamov](https://dev-soft.uz/), a Full Stack Developer 🚀 from Uzbekistan, currently, I'm a Software Engineer 🙍🏽‍♂️ [Universalbank JSC](https://universalbank.uz/private/), Mentor 👨🏽‍💼 [Unisoft Group](https://unired.uz). Beside's programming, I enjoy drawing and gaming.
 
   
 **Talking about Personal Stuffs:**
@@ -37,11 +37,9 @@ Hi, I'm [Muzaffar Makhkamov](https://dev-soft.uz/), a Full Stack Developer 🚀 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text                                                                  
-
-Laravel               4 hrs 23 mins   ████████████████░░░░░░░░░   63.53 % 
-Kotlin                2 hrs 10 mins   ████████░░░░░░░░░░░░░░░░░   31.50 % 
-Text                  7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-Markdown              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Laravel               26 hrs 23 mins  ████████████████            62.53 % 
+Kotlin                13 hrs 10 mins  █████████░░░░░░░░░░░░░░░░   31.50 % 
+Others                2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░    4.97 % 
 
 ```
 <!--END_SECTION:waka-->
@@ -49,9 +47,9 @@ Markdown              7 mins          ▒░░░░░░░░░░░░░
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
 🏆   Points           
-🌸  Completed 1 tasks today           
-🗓  Completed 1 tasks this week           
-✅  Completed 403 tasks so far           
+🌸  Completed 4 tasks today           
+🗓  Completed 23 tasks this week           
+✅  Completed 603 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
