@@ -17,7 +17,7 @@
 
 ```
 ```
-<img align="right" alt="Muzaffar's Desktop" width="22px" src="https://github.com/MaxAlphaEngineer/MaxAlphaEngineer/coding.gif" /><br>
+<img align="right" width ="250px" height ="250px" src="https://github.com/MaxAlphaEngineer/MaxAlphaEngineer/blob/master/coding.gif" />
 
 
 **Talking about Personal Stuffs:**
