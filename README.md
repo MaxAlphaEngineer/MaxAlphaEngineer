@@ -18,9 +18,9 @@
 ```
 ```
 
-<img align="right" width ="250px" height ="250px" src="https://github.com/MaxAlphaEngineer/MaxAlphaEngineer/blob/master/coding.gif" />&nbsp;
-&nbsp;
-&nbsp;**Talking about Personal Stuffs:**&nbsp;
+
+
+**Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Kotlin and Laravel; 
@@ -29,7 +29,7 @@
 - 📝[Resume](https://drive.google.com)
 
 &nbsp;
-
+<img align="center" width ="250px" height ="250px" src="https://github.com/MaxAlphaEngineer/MaxAlphaEngineer/blob/master/coding.gif" />
 ```
 ```
 
