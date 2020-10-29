@@ -17,8 +17,8 @@
 
 ```
 ```
-<img align="right" width ="250px" height ="250px" src="https://github.com/MaxAlphaEngineer/MaxAlphaEngineer/blob/master/coding.gif" />
 
+<img align="right" width ="250px" height ="250px" src="https://github.com/MaxAlphaEngineer/MaxAlphaEngineer/blob/master/coding.gif" />&nbsp;
 
 **Talking about Personal Stuffs:**
 
@@ -28,6 +28,7 @@
 - 📫 How to reach me: [@mahkamovmuzaffar](https://t.me/mahkamovmuzaffar);
 - 📝[Resume](https://drive.google.com)
 
+&nbsp;
 
 ```
 ```
