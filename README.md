@@ -28,10 +28,7 @@
 - 📫 How to reach me: [@mahkamovmuzaffar](https://t.me/mahkamovmuzaffar);
 - 📝[Resume](https://drive.google.com)
 
-&nbsp;
-<img align="center" width ="250px" height ="250px" src="https://github.com/MaxAlphaEngineer/MaxAlphaEngineer/blob/master/coding.gif" />
-```
-```
+
 
 **Languages and Tools:**  
 
