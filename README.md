@@ -1,42 +1,46 @@
+# 👋 Hi, I'm Muzaffar Makhkamov
 
-&nbsp;
+🚀 Fintech Team Lead & Backend Engineer from Uzbekistan  
+🏦 Building Secure & Scalable Payment Systems at [Universalbank](https://universalbank.uz/private/)  
+👨🏽‍💼 Mentoring and Scaling Dev Teams at [Unisoft Group](https://unired.uz)  
+💬 Passionate about API architecture, fintech integrations, and developer growth
 
-```
-```
+---
 
- Hi, I'm [Muzaffar Makhkamov](https://dev-soft.uz/), a Full Stack Developer 🚀 from Uzbekistan, currently, I'm a Software Engineer 🙍🏽‍♂️ [Universalbank JSC](https://universalbank.uz/private/), Mentor 👨🏽‍💼 [Unisoft Group](https://unired.uz). Beside's programming, I enjoy drawing and gaming.
+## 🔧 What I'm Working On:
+- 🌍 Cross-border money transfer integrations (VISA, Uzcard, Humo)
+- 🛠 Django-based microservices for banking & payments
+- 📈 Training junior engineers and optimizing SDLC practices
 
-```
-```
+---
 
+## 📚 Learning Focus:
+- Kotlin for mobile finance apps
+- Advanced Laravel for admin dashboards
 
+---
 
-**Talking about Personal Stuffs:**
+## 🤝 Reach Me On:
+- Telegram: [@mahkamovmuzaffar](https://t.me/mahkamovmuzaffar)
+- LinkedIn: [muzaffar-makhkamov](https://www.linkedin.com/in/muzaffar-makhkamov)
+- 📄 [View Resume](https://drive.google.com)
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Kotlin and Laravel; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@mahkamovmuzaffar](https://t.me/mahkamovmuzaffar);
-- 📝[Resume](https://drive.google.com)
+---
 
+## 💻 Tech Stack & Tools:
 
+<p>
+  <img src="https://img.shields.io/badge/-Python-05122A?logo=python" height="20"/>
+  <img src="https://img.shields.io/badge/-Django-092E20?logo=django" height="20"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql" height="20"/>
+  <img src="https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin" height="20"/>
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel" height="20"/>
+  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter" height="20"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker" height="20"/>
+  <img src="https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab" height="20"/>
+  <img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis" height="20"/>
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase" height="20"/>
+</p>
 
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-```
-```
-
-
-
+---
 
