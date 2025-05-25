@@ -23,7 +23,7 @@
 ## 🤝 Reach Me On:
 - Telegram: [@mahkamovmuzaffar](https://t.me/mahkamovmuzaffar)
 - LinkedIn: [muzaffar-makhkamov](https://www.linkedin.com/in/muzaffar-makhkamov)
-- 📄 [View Resume]([https://drive.google.com](https://docs.google.com/document/d/18sjeukAFBZMNeaoNkY2QtxHl6w2CB55wgR3bin4By30/edit?usp=sharing)
+- 📄 [View Resume]([https://drive.google.com](https://docs.google.com/document/d/18sjeukAFBZMNeaoNkY2QtxHl6w2CB55wgR3bin4By30/edit?usp=sharing))
 
 ---
 
